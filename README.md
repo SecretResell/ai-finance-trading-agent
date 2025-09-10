@@ -1,0 +1,1 @@
+📄 Placeholder README for AI & Finance Project. Final README will be generated after testing.
